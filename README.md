@@ -1,64 +1,54 @@
 # new_chat_app
 
-![e1](https://github.com/DGJ2627/exam_2/assets/114165275/8be8240c-8472-462e-9274-78cc3115af27)
-
-
-![e2](https://github.com/DGJ2627/exam_2/assets/114165275/24f7539e-aa21-43fa-92a0-9182c4bc4731)
+![Screenshot 2023-10-02 210604](https://github.com/DGJ2627/final_exam_af/assets/114165275/6bbdeb39-6ec6-46ff-b73d-494e5971599d)
 
 
 
 
-![e3](https://github.com/DGJ2627/exam_2/assets/114165275/e980d810-b2c7-43ee-ae55-95f020c884cc)
-
-
-
-
-![e4](https://github.com/DGJ2627/exam_2/assets/114165275/88c3b1be-32a1-430a-9b22-77bab6353a47)
+![Screenshot 2023-10-02 210633](https://github.com/DGJ2627/final_exam_af/assets/114165275/38fb463e-658b-456a-a38b-77f23452857f)
 
 
 
 
 
-![e5](https://github.com/DGJ2627/exam_2/assets/114165275/e195bb2b-67df-4333-b53a-939e768eb3b8)
+![Screenshot 2023-10-02 210654](https://github.com/DGJ2627/final_exam_af/assets/114165275/ca63cc8b-9b07-42f0-8d07-15eacca69fd7)
 
 
 
 
-![e6](https://github.com/DGJ2627/exam_2/assets/114165275/08c4b1ab-d557-433c-930d-e5efed7f0010)
+![Screenshot 2023-10-02 210832](https://github.com/DGJ2627/final_exam_af/assets/114165275/f632a0af-4819-4fb8-8fbf-dea702fbc0f3)
 
 
 
 
 
-![e7](https://github.com/DGJ2627/exam_2/assets/114165275/1dc4982a-abf4-4500-bdd7-d5eb865f24b0)
+![Screenshot 2023-10-02 210931](https://github.com/DGJ2627/final_exam_af/assets/114165275/ce7452ac-3a56-42ca-bc8a-b74196d2c95c)
 
 
 
 
 
 
-![e8](https://github.com/DGJ2627/exam_2/assets/114165275/032d5f71-9eaa-415b-a1f9-1d8fc3cbdb75)
+![Screenshot 2023-10-02 211239](https://github.com/DGJ2627/final_exam_af/assets/114165275/c5645227-6bf4-4fda-88b3-3685142644be)
 
 
 
 
 
 
-
-![e9](https://github.com/DGJ2627/exam_2/assets/114165275/3727999c-80a0-4be2-bdb0-d5726f9d8899)
-
-
-
-
-
-![e10](https://github.com/DGJ2627/exam_2/assets/114165275/e846844f-b8e5-431e-bcfb-ca74a5e11096)
+![Screenshot 2023-10-02 211258](https://github.com/DGJ2627/final_exam_af/assets/114165275/b52f68b7-7f52-44ef-b606-2d34c36a27e6)
 
 
 
 
 
+![Screenshot 2023-10-02 211320](https://github.com/DGJ2627/final_exam_af/assets/114165275/40cd593a-4d07-4010-b285-d47fb297eb63)
 
-![e11](https://github.com/DGJ2627/exam_2/assets/114165275/a91e5b8a-affc-403e-97f7-d1d6a74334aa)
+
+
+
+
+![Screenshot 2023-10-02 211337](https://github.com/DGJ2627/final_exam_af/assets/114165275/d4be41ac-64b7-49ff-a2b2-8e875e44244d)
 
 
 
@@ -66,5 +56,12 @@
 
 
 
+![Screenshot 2023-10-02 211357](https://github.com/DGJ2627/final_exam_af/assets/114165275/7c72682a-b41f-42b3-9035-05dfdcf692c2)
+
+
+
+
+
+![Screenshot 2023-10-02 211421](https://github.com/DGJ2627/final_exam_af/assets/114165275/881f1c07-3ec3-43ce-b390-ab7020283a53)
 
 
